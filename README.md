@@ -7,6 +7,8 @@
 
 My homework assignments for the Coursera [Software Engineering for SaaS](https://www.coursera.org/course/saas) course.
 
+[![Build Status](https://secure.travis-ci.org/phlipper/coursera-saas-course.png?branch=master)](http://travis-ci.org/phlipper/coursera-saas-course)
+
 
 ## License
 
